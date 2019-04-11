@@ -1,2 +1,2 @@
 # Data-Science
-Repository will contain example code snippet for all most all machine learning algorithms and statistical testing all implemented into Python as well as into R.
+Repository will contain running example of code snippet for of all most all machine learning algorithms and statistical testing all implemented into Python as well as into R.
